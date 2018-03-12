@@ -6,3 +6,5 @@ ES6 learning materials
 [Constructor Arguments with Classes in JavaScript](https://www.youtube.com/watch?v=rHiSsgFRgx4)  
 
 [Arrays of Objects](https://www.youtube.com/watch?v=fBqaA7zRO58)   
+
+[Three dots](https://dmitripavlutin.com/how-three-dots-changed-javascript/)  
