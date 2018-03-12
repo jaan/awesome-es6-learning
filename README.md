@@ -8,3 +8,12 @@ ES6 learning materials
 [Arrays of Objects](https://www.youtube.com/watch?v=fBqaA7zRO58)   
 
 [Three dots](https://dmitripavlutin.com/how-three-dots-changed-javascript/)  
+
+
+
+
+
+
+
+**Templates:**  
+https://developers.google.com/web/updates/2015/01/ES6-Template-Strings  
